@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build Python-based tools and data analyses, and develop React Native applications to turn raw data and ideas into clear, usable experiences.
+I build Python-based tools and data analyses, and develop React Native applications to turn raw data and ideas into clear, usable experiences. Keen in exploring automation tools and programs to make our lives easier.
 
 
 ## 🌐 Socials:
