@@ -2,19 +2,20 @@
 <p align="center">
   I build Python-based tools and data analyses, and develop React Native applications to turn raw data and ideas into clear, usable experiences. Keen in exploring automation tools and programs to make our lives easier.
 </p>
-
+<br>
 <h2 align="center">👷 Check out what I'm currently working on</h2>
 
 - [ArsdSaathi](https://github.com/KshavCode/arsd-saathi-app) - A data retriever from my college portal and dumps into an organized, offline-first dashboard with saved credentials.
 - [TherapEase](https://github.com/KshavCode/therapease-app) - Smart exercise and motion tracking system in your pocket. Eases up the interaction between doctors and the patients.
 - [DevRace](https://github.com/KshavCode/devrace) - A competitive and XP based quiz system to practice 3 layers at once - APP, API and DB.
 
+<br>
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/kshavcodes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a target="_blank"href="mailto:kshav005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-
+<br>
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
@@ -60,6 +61,10 @@
 </p>
 
 ---
-<a href="http://www.github.com/kshavcode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kshavcode&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KshavCode&theme=highcontrast&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200&fire=A3EBC6&ring=A3EBC6&currStreakNum=A3EBC6&currStreakLabel=A3EBC6" alt="GitHub Streak" /></a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=KshavCode&style=for-the-badge)
 
 
