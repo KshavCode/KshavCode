@@ -65,8 +65,15 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KshavCode&theme=highcontrast&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200&fire=A3EBC6&ring=A3EBC6&currStreakNum=A3EBC6&currStreakLabel=A3EBC6" alt="GitHub Streak" /></a>
   <br>
   <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KshavCode&theme=dark" alt="KshavCode" />
+  <br>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshavCode&theme=dark" alt="Profile Summary" />
+  <br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=KshavCode&style=for-the-badge" alt="Visitors" /></a>
 </p>
+
 
 
 
