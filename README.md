@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshavCode&theme=dark" alt="Profile Summary" />
+</p>
+
 <h1 align="center">💫 About Me</h1>
 <p align="center">
   I build Python-based tools and data analyses, and develop React Native applications to turn raw data and ideas into clear, usable experiences. Keen in exploring automation tools and programs to make our lives easier.
 </p>
 <br>
-<h2 align="center">👷 Check out what I'm currently working on</h2>
+<h2 align="center">👷 Currently working on</h2>
 
 - [ArsdSaathi](https://github.com/KshavCode/arsd-saathi-app) - A data retriever from my college portal and dumps into an organized, offline-first dashboard with saved credentials.
 - [TherapEase](https://github.com/KshavCode/therapease-app) - Smart exercise and motion tracking system in your pocket. Eases up the interaction between doctors and the patients.
@@ -66,9 +70,6 @@
   <br>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KshavCode&theme=dark" alt="KshavCode" />
-  <br>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshavCode&theme=dark" alt="Profile Summary" />
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=KshavCode&style=for-the-badge" alt="Visitors" /></a>
