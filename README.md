@@ -3,6 +3,12 @@
   I build Python-based tools and data analyses, and develop React Native applications to turn raw data and ideas into clear, usable experiences. Keen in exploring automation tools and programs to make our lives easier.
 </p>
 
+<h2 align="center">👷 Check out what I'm currently working on</h2>
+
+- [ArsdSaathi](https://github.com/KshavCode/arsd-saathi-app) - A data retriever from my college portal and dumps into an organized, offline-first dashboard with saved credentials.
+- [TherapEase](https://github.com/KshavCode/therapease-app) - Smart exercise and motion tracking system in your pocket. Eases up the interaction between doctors and the patients.
+- [DevRace](https://github.com/KshavCode/devrace) - A competitive and XP based quiz system to practice 3 layers at once - APP, API and DB.
+
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/kshavcodes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
