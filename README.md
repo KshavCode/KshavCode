@@ -8,7 +8,8 @@
   I build software which automates daily tasks and used by real people. I use the magic of Python and React Native to turn raw data and ideas into clear, usable experiences. Keen in exploring programs that can help to make our lives easier.
 </p>
 <br>
-<h2 align="center">👷 Currently working on</h2>
+
+<h1 align="center">👷 CURRENTLY BUILDING</h1>
 
 - [ArsdSaathi](https://github.com/KshavCode/arsd-saathi-app) - Official ARSD DU student app used by 3k+ students and available on Google Play Store.
 - [Click2Pan](https://github.com/KshavCode/click2pan-ai) - Cinematic screen recorder with an ability to edit automatically including zoom and pan animations based on different types of mouse events.
@@ -16,13 +17,13 @@
 - [DevRace](https://github.com/KshavCode/devrace) - A competitive and XP based quiz system to practice 3 layers at once - APP, API and DB.
 
 <br>
-<h2 align="center">🌐 Socials</h2>
+<h1 align="center">🌐 SOCIALS</h1>
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/kshavcodes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a target="_blank"href="mailto:kshav005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<h2 align="center">💻 Tech Stack</h2>
+<h1 align="center">💻 TECH STACK</h1>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;
