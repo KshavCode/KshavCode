@@ -1,79 +1,88 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Keshav&descAlignY=55&descAlign=50&descSize=25"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77271&center=true&vCenter=true&width=500&lines=CS+Student+By+Day;Programmer+By+Night;Python+%26+React+Native+Dev;Building+Automations+%26+Apps)](https://git.io/typing-svg)
+
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KshavCode&theme=highcontrast&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200&fire=A3EBC6&ring=A3EBC6&currStreakNum=A3EBC6&currStreakLabel=A3EBC6" alt="GitHub Streak" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/kshavcodes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a target="_blank" href="mailto:kshav005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a target="_blank" href="https://github.com/KshavCode">
+    <img src="https://komarev.com/ghpvc/?username=KshavCode&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Visitors" />
+  </a>
 </p>
 
-<h1 align="center">ABOUT ME</h1>
-<p align="justified">
-  CS Student By Day and Programmer By Night.
-  I build software which automates daily tasks and used by real people. I use the magic of Python and React Native to turn raw data and ideas into clear, usable experiences. Keen in exploring programs that can help to make our lives easier.
-</p>
+I build software that automates daily tasks and solves real-world problems. Using the magic of **Python** and **React Native**, I turn raw data and ideas into clean, usable, and intuitive digital experiences. 
+
 <br>
 
-<h1 align="center">👷 CURRENTLY BUILDING</h1>
+## 🚀 CURRENTLY BUILDING
 
-- [ArsdSaathi](https://github.com/KshavCode/arsd-saathi-app) - Official ARSD DU student app used by 3k+ students and available on Google Play Store.
-- [Click2Pan](https://github.com/KshavCode/click2pan-ai) - Cinematic screen recorder with an ability to edit automatically including zoom and pan animations based on different types of mouse events.
-- [TherapEase](https://github.com/KshavCode/therapease-app) - Still in development. Smart exercise and motion tracking system in your pocket. Stay fit and close to accurate movements!
-- [DevRace](https://github.com/KshavCode/devrace) - A competitive and XP based quiz system to practice 3 layers at once - APP, API and DB.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KshavCode/arsd-saathi-app">📱 ArsdSaathi</a></h3>
+      <p>Official ARSD DU student app used by 3k+ students and available on the Google Play Store.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KshavCode/click2pan-ai">🎬 Click2Pan</a></h3>
+      <p>Cinematic screen recorder that edits automatically, featuring intelligent zoom and pan animations based on mouse events.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KshavCode/therapease-app">🦾 TherapEase</a> <em>(In Dev)</em></h3>
+      <p>Smart exercise and motion tracking system in your pocket. Stay fit with accurate movement analysis.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/KshavCode/devrace">🏆 DevRace</a></h3>
+      <p>A competitive, XP-based quiz system designed to practice 3 layers of development at once: APP, API, and DB.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
-<h1 align="center">🌐 SOCIALS</h1>
-<p>
-  <a target="_blank"href="https://www.linkedin.com/in/kshavcodes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a target="_blank"href="mailto:kshav005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
+
+## 🎨 TECH ARSENAL
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Languages & Core</b></td>
+      <td align="center" width="25%"><b>Frameworks</b></td>
+      <td align="center" width="25%"><b>Data & ML</b></td>
+      <td align="center" width="25%"><b>Databases & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=py,js,cpp,bash,html,css&perline=3" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,fastapi,bootstrap&perline=3" /><br>
+        <img src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37" /><br>
+        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode&perline=3" />
+      </td>
+    </tr>
+  </table>
+
 <br>
-<h1 align="center">💻 TECH STACK</h1>
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />&nbsp;
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />&nbsp;
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp;
-</p>
-
----
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshavCode&theme=dark" alt="Profile Summary" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=KshavCode&style=for-the-badge" alt="Visitors" /></a>
-</p>
+<img src="https://streak-stats.demolab.com?user=KshavCode&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&bg_color=0D1117" alt="GitHub Streak" />
 
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+
+</div>
