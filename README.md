@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshavCode&theme=dark" alt="Profile Summary" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KshavCode&theme=highcontrast&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200&fire=A3EBC6&ring=A3EBC6&currStreakNum=A3EBC6&currStreakLabel=A3EBC6" alt="GitHub Streak" /></a>
 </p>
 
 <h1 align="center">💫 About Me</h1>
@@ -9,8 +9,9 @@
 <br>
 <h2 align="center">👷 Currently working on</h2>
 
-- [ArsdSaathi](https://github.com/KshavCode/arsd-saathi-app) - A data retriever from my college portal and dumps into an organized, offline-first dashboard with saved credentials.
-- [TherapEase](https://github.com/KshavCode/therapease-app) - Smart exercise and motion tracking system in your pocket. Eases up the interaction between doctors and the patients.
+- [ArsdSaathi](https://github.com/KshavCode/arsd-saathi-app) - Official ARSD DU student app used by 3k+ students and available on Google Play Store.
+- [Click2Pan](https://github.com/KshavCode/click2pan-ai) - Cinematic screen recorder with an ability to edit automatically including zoom and pan animations based on different types of mouse events.
+- [TherapEase](https://github.com/KshavCode/therapease-app) - Still in development. Smart exercise and motion tracking system in your pocket. Stay fit and close to accurate movements!
 - [DevRace](https://github.com/KshavCode/devrace) - A competitive and XP based quiz system to practice 3 layers at once - APP, API and DB.
 
 <br>
@@ -66,10 +67,10 @@
 
 ---
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KshavCode&theme=highcontrast&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200&fire=A3EBC6&ring=A3EBC6&currStreakNum=A3EBC6&currStreakLabel=A3EBC6" alt="GitHub Streak" /></a>
   <br>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KshavCode&theme=dark" alt="KshavCode" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KshavCode&theme=dark" alt="Profile Summary" />
+</p>
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=KshavCode&style=for-the-badge" alt="Visitors" /></a>
